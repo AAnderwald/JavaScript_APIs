@@ -8,7 +8,7 @@ let search = document.getElementById ("giphSearch");
 let img = document.getElementById("gif");
 
 
-const GIPHY_KEY = "McibqQ4RZDrINwqGsgEMRM8l8vWwtAgf";        //this is my giphy key this is put here and will be plugged in the fetch
+const GIPHY_KEY = "I am blank please put me in to use";        //this is my giphy key this is put here and will be plugged in the fetch
 
 form.addEventListener("submit", fetchGiph);
 
